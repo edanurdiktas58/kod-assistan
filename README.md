@@ -8,4 +8,4 @@
 - saati yazdır
 - su seviyesini yazdır
 - bitir
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43ac0902-bb47-48f8-96fa-9006464a7bdb" />
+  <img width="1910" height="4695" alt="su_seviyesi" src="https://github.com/user-attachments/assets/83a62b0e-860d-4fc7-bea0-09f7b5ccf938" />
